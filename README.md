@@ -6,4 +6,4 @@ Ao optarmos por uma arquitetura neural mínima, composta por dois neurônios, bu
 
 Iniciaremos com a importação das bibliotecas necessárias e explicaremos a estrutura básica do Perceptron, destacando a função de ativação. Ao longo do estudo, abordaremos o processo de treinamento, com ênfase no algoritmo de retropropagação, e discutiremos métodos de avaliação de desempenho. A escolha deliberada de uma arquitetura enxuta visa proporcionar uma experiência acessível e didática, permitindo que os participantes compreendam os princípios essenciais na construção de redes neurais para tarefas de regressão no ambiente colaborativo do Google Colab.
 
-![Descrição da imagem]("https://miro.medium.com/v2/resize:fit:1400/1*cbm8Gf2R_Cf7Uu9wUW95yQ.png")
+![Descrição da imagem](https://miro.medium.com/v2/resize:fit:1400/1*cbm8Gf2R_Cf7Uu9wUW95yQ.png)
